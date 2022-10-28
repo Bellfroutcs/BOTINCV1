@@ -29,30 +29,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
+global.sgh = 'https://github.com/Bellfroutcs'
+global.sgc = '-'
 global.swa = 'wa.me/6288279268363'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '088279268363'
-global.povo = '-'
-global.pgopay = '088279268363'
-global.ppulsa = '-'
+global.povo = '6283816797646'
+global.pgopay = '-'
+global.ppulsa = '6283816797646'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '6283816797646'
+global.nomorown = '6283816797646'
+global.namebot = 'Inc BOTZぅッ為'
+global.nameown = 'ᴹᴿ᭄ Ananda DEV ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6283816797646', 'ᴹᴿ᭄ Ananda DEV ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
